@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Breathe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe/) |
+| **Get License** | [Get License For Breathe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat when you pull me close
+> Every touch you give is what I need the most
+> Driving down this road with you by my side
+> Got the windows down on this midnight ride
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
