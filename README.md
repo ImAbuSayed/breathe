@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Breathe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe/) |
+| **Get License** | [License this song: Breathe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5244865a9c90b60c8cfee1345d40d921c2699e5e9b43b827647c3e8f9e0c13ea` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
